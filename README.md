@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dschneidauTHEprogrammer
 
-- I’m interested in machine learning which means I am also interested in math my deafult
+- I’m interested in machine learning which means I am also interested in math by deafult
 - I’m currently training myself at the University of Memphis, majoring in both Computer Science and Math
   I LOVE anything with machine learning and classification. Reinforcement learning, NLP, deep neural networks... I am into it all!
   
